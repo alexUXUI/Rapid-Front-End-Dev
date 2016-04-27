@@ -1,0 +1,22 @@
+{
+  "name": "rapid-front-end-dev",
+  "description": "boilerplate for rapid front end dev.",
+  "main": "index.js",
+  "authors": [
+    "Alex Bennett <alexandergraybennett@gmail.com> (http://thedope.agency)"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.2.18"
+  }
+}
