@@ -1,7 +1,7 @@
 # Rapid-Front-End-Dev
 ## Boiler plate for rapid front-end development 
 
-### In this boilerplate, you fill find:
+### In this boilerplate, you will find:
 
 - Angular v 1.5.5
 - Sass
